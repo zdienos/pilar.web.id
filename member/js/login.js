@@ -71,7 +71,7 @@ function Login()
       document.getElementById('button').textContent = 'Masuk';
         swal(
           'Data Salah!',
-          'Sihlakan Isi Data Dengan Benar!',
+          'Silahkan Isi Data Dengan Benar!',
           'error'
         );
       }
@@ -80,7 +80,7 @@ function Login()
         document.getElementById('button').textContent = 'Masuk';
         swal(
           'Data Tidak Lengkap!',
-          'Sihlakan IsiData Kembali!',
+          'Silahkan IsiData Kembali!',
           'error'
         );
       }

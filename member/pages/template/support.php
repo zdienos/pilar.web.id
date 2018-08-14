@@ -68,7 +68,7 @@
 <td class="v-align-middle">
   <?php echo $dataPemda['nama']; ?>
 </td>
-<td class="v-align-middle">
+<td class="v-align-middle" style="width: 39%;">
 <p><?php echo $isi; ?></td>
 <td class="v-align-middle">
 <p><?php echo   $dataAplikasi['nama_produk']; ?></p>
